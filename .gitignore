@@ -1,0 +1,36 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.swp
+
+# Dependency Directories
+node_modules/
+vendor/
+__pycache__/
+
+# Build Files
+dist/
+build/
+*.class
+*.o
+*.so
+
+# IDE/Editor Settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Environment Variables
+.env
+
+# System Files
+*.bak
+*.lock
+*.cache
+
+# Git Specific
+.git/
